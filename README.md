@@ -1,5 +1,5 @@
 # 💫 About Me:
-私の github へようこそ。日本語を使って簡単に自己紹介をします。私の名前はJeまたはTakumi、18歳です。よろしくお願いします<br><br>👋 Hi, I’m @Haenazawa. People Call me Hana/Takumi/Je or my real name Gung/Gungrah<br>👀 I’m interested in HTML, CSS, JS and some UI/UX design on figma. But currently learning too about C++ and python<br>🌱 I’m currently at ITB STIKOM BALI University (1st semester)<br>📫 How to reach me? Simple, DM's my discord @haenazawa or twitter @anthxry
+**私の github へようこそ。日本語を使って簡単に自己紹介をします。私の名前はJeまたはTakumi、18歳です。よろしくお願いします<br><br>👋 Hi, I’m @Haenazawa. People Call me Hana/Takumi/Je or my real name Gung/Gungrah<br>👀 I’m interested in HTML, CSS, JS and some UI/UX design on figma. But currently learning too about C++ and python<br>🌱 I’m currently at ITB STIKOM BALI University (1st semester)<br>📫 How to reach me? Simple, DM's my discord @haenazawa or twitter @anthxry**
 
 
 ## 🌐 Socials:
